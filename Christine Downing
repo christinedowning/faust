@@ -1,0 +1,7 @@
+// Questo è un commento
+// Il commento è una riga di codice che viene ignorata dal compilatore
+// Il compilatore è un programma che legge il nostro codice e lo esegue
+// Il commento è una riga di supporto e di appunti per la programmazione
+import("stdfaust.lib");
+process = +;
+			
