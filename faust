@@ -1,0 +1,3 @@
+ import("stdfaust.lib");
+ gain = ;
+process = no.noise :fi.bandpass (10, 1000, 2000): *(hslider("gain" , 0, 0, 1, 0.1)) ;
